@@ -12,7 +12,8 @@ If you have any suggestions of challenges that could help me learn anything, tha
 - To get more comfortable with algorithms, math, and programming concepts.
 - Even though I already have some experience, I’m going back over the basics to make sure my foundations are solid.  
 - I also want to stay up to date with how C# has evolved!
-- Haven't programmed in a while.
+- I haven't programmed in a long time.
+- I want to learn how to use other IDE other than Visual Studio
 
 ---
 

@@ -2,18 +2,20 @@
 
 | Status | Challenge               | Description                                           |
 |--------|-------------------------|-------------------------------------------------------|
-| ⬜ | Even or Odd?            | Check if a number is even or odd.                    |
-| ⬜ | FizzBuzz                | Print 1–100 with Fizz/Buzz rules.                    |
-| ⬜ | Factorial               | Calculate factorial iteratively/recursively.         |
+| ✅ | Hello World             | Say Hello World! in the console                      |
+| ✅ | Echo                    | Echo back the user input                             |
+| ✅ | Even or Odd?            | Check if a number is even or odd.                    |
+| ✅ | FizzBuzz                | Print 1–100 with Fizz/Buzz rules.                    |
+| ✅ | Factorial               | Calculate factorial iteratively/recursively.         |
 | ⬜ | Fibonacci               | nth Fibonacci number (recursive/iterative)           |
 | ⬜ | Decimal to Binary       | Convert decimal to binary                            |
 | ⬜ | Base Converter          | Convert between any base (2–36)                      |
-| ⬜ | Leap Year Checker      | Leap year rules logic                                |
-| ⬜ | Grade Categorizer      | Convert percent to letter grade                      |
+| ⬜ | Leap Year Checker      | Leap year rules logic                                 |
+| ⬜ | Grade Categorizer      | Convert percent to letter grade                       |
 | ⬜ | Temperature Converter   | °F/°C/K conversions                                  |
 | ⬜ | Tip Calculator          | Percent-based calculation                            |
 | ⬜ | Simple Calculator       | Add, subtract, multiply, divide                      |
-| ⬜ | Password Strength Checker | Length, symbols, logic checks                        |
+| ⬜ | Password Strength Checker | Length, symbols, logic checks                      |
 | ⬜ | Countdown Timer         | Countdown from input seconds                         |
 
 ---
@@ -22,13 +24,14 @@
 
 | Status | Challenge             | Description                                        |
 |--------|-----------------------|----------------------------------------------------|
-| ⬜ | Count Vowels           | Count vowels in a string                          |
-| ⬜ | Reverse a String       | Without using built-ins                           |
-| ⬜ | Palindrome Checker     | Check word/sentence symmetry                      |
-| ⬜ | Word Counter           | Count words in a paragraph                        |
-| ⬜ | Frequency Counter      | Count chars or words                              |
-| ⬜ | Text Replacer          | Replace words in text                             |
-| ⬜ | CSV Splitter           | Parse CSV-style string                            |
+| ✅ | String Modifications            | Concatenate/Split/Modify strings             |
+| ⬜ | Count Vowels           | Count vowels in a string                              |
+| ⬜ | Reverse a String       | Without using built-ins                               |
+| ⬜ | Palindrome Checker     | Check word/sentence symmetry                          |
+| ⬜ | Word Counter           | Count words in a paragraph                            |
+| ⬜ | Frequency Counter      | Count chars or words                                  |
+| ⬜ | Text Replacer          | Replace words in text                                 |
+| ⬜ | CSV Splitter           | Parse CSV-style string                                |
 
 ---
 
@@ -36,14 +39,14 @@
 
 | Status | Challenge               | Description                                       |
 |--------|-------------------------|---------------------------------------------------|
-| ⬜ | Unit Converter          | Convert between kg/lb, °C/°F, etc.               |
-| ⬜ | Weight Converter        | Convert between kg, lb, oz, g                    |
-| ⬜ | Length Converter        | m, cm, in, ft, mi                                |
-| ⬜ | Volume Converter        | Liters, gallons, etc.                            |
-| ⬜ | Currency Converter      | Static rates, input/output                       |
-| ⬜ | Time Converter          | Seconds to H:M:S                                 |
-| ⬜ | Binary to Decimal       | Convert binary string to number                  |
-| ⬜ | Stopwatch Timer         | Timer logic with pause/reset                     |
+| ⬜ | Unit Converter          | Convert between kg/lb, °C/°F, etc.                    |
+| ⬜ | Weight Converter        | Convert between kg, lb, oz, g                         |
+| ⬜ | Length Converter        | m, cm, in, ft, mi                                     |
+| ⬜ | Volume Converter        | Liters, gallons, etc.                                 |
+  | ⬜ | Currency Converter      | Static rates, input/output                          |
+| ⬜ | Time Converter          | Seconds to H:M:S                                      |
+| ⬜ | Binary to Decimal       | Convert binary string to number                       |
+| ⬜ | Stopwatch Timer         | Timer logic with pause/reset                          |
 
 ---
 
@@ -51,13 +54,13 @@
 
 | Status | Challenge             | Description                                      |
 |--------|-----------------------|--------------------------------------------------|
-| ⬜ | Subset Generator      | Generate all subsets of a list                  |
-| ⬜ | String Permutations   | Permute characters                              |
-| ⬜ | Binary Search         | Efficient number search                         |
-| ⬜ | Manual Merge Sort     | Recursive sorting algorithm                     |
-| ⬜ | Two Sum               | Find pair that sums to target                   |
-| ⬜ | Maze Solver           | Solve maze with DFS or backtracking             |
-| ⬜ | Manual Sorting        | Bubble/Selection sort manually                  |
+| ⬜ | Subset Generator      | Generate all subsets of a list                       |
+| ⬜ | String Permutations   | Permute characters                                   |
+| ⬜ | Binary Search         | Efficient number search                              |
+| ⬜ | Manual Merge Sort     | Recursive sorting algorithm                          |
+| ⬜ | Two Sum               | Find pair that sums to target                        |
+| ⬜ | Maze Solver           | Solve maze with DFS or backtracking                  |
+| ⬜ | Manual Sorting        | Bubble/Selection sort manually                       |
 
 ---
 
@@ -65,15 +68,15 @@
 
 | Status | Challenge             | Description                                   |
 |--------|-----------------------|-----------------------------------------------|
-| ⬜ | Implement Stack       | Push/pop/peek logic                          |
-| ⬜ | Implement Queue       | FIFO logic                                    |
-| ⬜ | Linked List           | Create and manipulate                        |
-| ⬜ | Binary Tree           | Insert/search/print                          |
-| ⬜ | DFS & BFS             | Tree/graph traversal                         |
-| ⬜ | Symmetric Tree Check  | Validate tree structure                      |
-| ⬜ | Adjacency List        | Graph using adjacency list                   |
-| ⬜ | Graph Pathfinding     | Shortest path using BFS                      |
-| ⬜ | Cycle Detection       | Detect cycles in graph                       |
+| ⬜ | Implement Stack       | Push/pop/peek logic                               |
+| ⬜ | Implement Queue       | FIFO logic                                        |
+| ⬜ | Linked List           | Create and manipulate                             |
+| ⬜ | Binary Tree           | Insert/search/print                               |
+| ⬜ | DFS & BFS             | Tree/graph traversal                              |
+| ⬜ | Symmetric Tree Check  | Validate tree structure                           |
+| ⬜ | Adjacency List        | Graph using adjacency list                        |
+| ⬜ | Graph Pathfinding     | Shortest path using BFS                           |
+| ⬜ | Cycle Detection       | Detect cycles in graph                            |
 
 ---
 

@@ -8,7 +8,8 @@
 | 01  | ✅ **Done** | Echo               | Echoes back user input                           | Programs | [Folder Link](./Challenges/Programs/01_Echo)              |
 | 02  | ✅ **Done** | Fizz Buzz          | Prints numbers from 1 to 100 with FizzBuzz rules | Programs | [Folder Link](./Challenges/Programs/02_FizzBuzz)          |
 | 03  | ✅ **Done** | Even Or Odd        | Determines if a number is even or odd            | Programs | [Folder Link](./Challenges/Programs/03_EvenOrOdd)         |
-| 04  | ✅ **Done** | Palindrome Checker | Check word/sentence symmetry                     | Programs | [Folder Link](./Challenges/Programs/04_PalindromeChecker) |
+| 04  | ✅ **Done** | Reverse a String   | Without using built-ins                          | Programs | [Folder Link](./Challenges/Programs/04_ReverseString)     |
+| 05  | ✅ **Done** | Palindrome Checker | Check word/sentence symmetry                     | Programs | [Folder Link](./Challenges/Programs/05_PalindromeChecker) |
 
 # Non-Completed Challenges
 
@@ -38,7 +39,7 @@
 | 18  | **N/A**    | Perfect Number Check      | Check if a number is a perfect number                                                                                             |
 | 19  | **N/A**    | Count Set Bits            | Count the number of 1s in binary                                                                                                  |
 | 20  | **N/A**    | Count Vowels              | Count vowels in a string                                                                                                          |
-| 21  | **N/A**    | Reverse a String          | Without using built-ins                                                                                                           |
+| 21  | ✅ **Done** | Reverse a String          | Without using built-ins                                                                                                           |
 | 22  | ✅ **Done** | Palindrome Checker        | Check word/sentence symmetry                                                                                                      |
 | 23  | **N/A**    | Factorial                 | Calculate factorial iteratively                                                                                                   |
 | 24  | **N/A**    | Fibonacci                 | nth Fibonacci number iteratively                                                                                                  |

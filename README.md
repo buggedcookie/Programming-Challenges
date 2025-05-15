@@ -10,6 +10,7 @@
 | 03  | ✅ **Done** | Even Or Odd        | Determines if a number is even or odd            | Programs | [Folder Link](./Challenges/Programs/03_EvenOrOdd)         |
 | 04  | ✅ **Done** | Reverse a String   | Without using built-ins                          | Programs | [Folder Link](./Challenges/Programs/04_ReverseString)     |
 | 05  | ✅ **Done** | Palindrome Checker | Check word/sentence symmetry                     | Programs | [Folder Link](./Challenges/Programs/05_PalindromeChecker) |
+| 06  | ✅ **Done** | Vowels Counter     | Count vowels in a string                         | Programs | [Folder Link](./Challenges/Programs/06_VowelsCounter)     |
 
 # Non-Completed Challenges
 
@@ -38,7 +39,7 @@
 | 17  | **N/A**    | Prime Number Generator    | Generate all prime numbers up to a limit                                                                                          |
 | 18  | **N/A**    | Perfect Number Check      | Check if a number is a perfect number                                                                                             |
 | 19  | **N/A**    | Count Set Bits            | Count the number of 1s in binary                                                                                                  |
-| 20  | **N/A**    | Count Vowels              | Count vowels in a string                                                                                                          |
+| 20  | ✅ **Done** | Count Vowels              | Count vowels in a string                                                                                                          |
 | 21  | ✅ **Done** | Reverse a String          | Without using built-ins                                                                                                           |
 | 22  | ✅ **Done** | Palindrome Checker        | Check word/sentence symmetry                                                                                                      |
 | 23  | **N/A**    | Factorial                 | Calculate factorial iteratively                                                                                                   |

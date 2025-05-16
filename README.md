@@ -1,12 +1,6 @@
 # Programming Challenges
 
-This repository contains various coding challenges, they're open to everyone for inspiration, exploration, or just for fun.
-
-Have fun learning
-
-# Coding Challenges
-
-This repository contains a collection of coding challenges — open to everyone for inspiration, learning, or just having fun.
+This repository contains a collection of programming challenges — open to everyone for inspiration, learning, or just having fun.
 
 > The "*solutions*" are just my personal takes. They're not necessarily correct, efficient or even good. The code may be messy or unoptimized just because I didn't feel like doing better.
 

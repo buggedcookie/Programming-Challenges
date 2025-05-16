@@ -33,20 +33,20 @@ This repository contains a collection of programming challenges — open to ever
 | 17  | **N/A**    | Prime Number Generator    | Generate all prime numbers up to a limit                                                                                          |                                                            |
 | 18  | **N/A**    | Perfect Number Check      | Check if a number is a perfect number                                                                                             |                                                            |
 | 19  | **N/A**    | Count Set Bits            | Count the number of 1s in binary                                                                                                  |                                                            |
-| 20  | ✅ **Done** | Count Vowels              | Count vowels in a string                                                                                                          | [Folder Link](./Challenges/Programs/06_VowelsCounter)      |
-| 21  | ✅ **Done** | Reverse a String          | Without using built-ins                                                                                                           | [Folder Link](./Challenges/Programs/04_ReverseString)      |
-| 22  | ✅ **Done** | Palindrome Checker        | Check word/sentence symmetry                                                                                                      | [Folder Link](./Challenges/Programs/05_PalindromeChecker)  |
+| 20  | ✅ **Done** | Count Vowels              | Count vowels in a string                                                                                                         | [Folder Link](./Challenges/Programs/06_VowelsCounter)      |
+| 21  | ✅ **Done** | Reverse a String          | Without using built-ins                                                                                                          | [Folder Link](./Challenges/Programs/04_ReverseString)      |
+| 22  | ✅ **Done** | Palindrome Checker        | Check word/sentence symmetry                                                                                                     | [Folder Link](./Challenges/Programs/05_PalindromeChecker)  |
 | 23  | **N/A**    | Factorial                 | Calculate factorial iteratively                                                                                                   |                                                            |
 | 24  | **N/A**    | Fibonacci                 | nth Fibonacci number iteratively                                                                                                  |                                                            |
 | 25  | **N/A**    | Decimal to Binary         | Convert decimal to binary                                                                                                         |                                                            |
 | 26  | **N/A**    | Binary to Decimal         | Convert binary string to number                                                                                                   |                                                            |
-| 27  | ✅ **Done** | Even or Odd?              | Check if a number is even or odd                                                                                                  | [Folder Link](./Challenges/Programs/03_EvenOrOdd)          |
-| 28  | ✅ **Done** | FizzBuzz                  | Print 1–100 with Fizz/Buzz rules                                                                                                  | [Folder Link](./Challenges/Programs/02_FizzBuzz)           |
-| 29  | ✅ **Done** | Leap Year Checker         | Check if a year is leap year, write your own code                                                                                 | [Folder Link](./Challenges/Programs/07_LeapYearChecker)    |
-| 30  | ✅ **Done** | Grade Categorizer         | Convert percent to letter grade                                                                                                   | [Folder Link](./Challenges/Programs/08_GradeCategorizer)   |
-| 31  | ✅ **Done** | String Modifications      | Concatenate/split/modify strings                                                                                                  | [Folder Link](./Challenges/Programs/09_StringModification) |
-| 32  | ✅ **Done** | Hello World               | Say Hello World in the console                                                                                                    | [Folder Link](./Challenges/Programs/00_HelloWorld)         |
-| 33  | ✅ **Done** | Echo                      | Echo back the user input                                                                                                          | [Folder Link](./Challenges/Programs/01_Echo)               |
+| 27  | ✅ **Done** | Even or Odd?              | Check if a number is even or odd                                                                                                 | [Folder Link](./Challenges/Programs/03_EvenOrOdd)          |
+| 28  | ✅ **Done** | FizzBuzz                  | Print 1–100 with Fizz/Buzz rules                                                                                                 | [Folder Link](./Challenges/Programs/02_FizzBuzz)           |
+| 29  | ✅ **Done** | Leap Year Checker         | Check if a year is leap year, write your own code                                                                                | [Folder Link](./Challenges/Programs/07_LeapYearChecker)    |
+| 30  | ✅ **Done** | Grade Categorizer         | Convert percent to letter grade                                                                                                  | [Folder Link](./Challenges/Programs/08_GradeCategorizer)   |
+| 31  | ✅ **Done** | String Modifications      | Concatenate/split/modify strings                                                                                                 | [Folder Link](./Challenges/Programs/09_StringModification) |
+| 32  | ✅ **Done** | Hello World               | Say Hello World in the console                                                                                                   | [Folder Link](./Challenges/Programs/00_HelloWorld)         |
+| 33  | ✅ **Done** | Echo                      | Echo back the user input                                                                                                         | [Folder Link](./Challenges/Programs/01_Echo)               |
 | 34  | **N/A**    | Custom Exception          | Create and throw your own exception                                                                                               |                                                            |
 | 35  | **N/A**    | Use Reflection            | Retrieve classes by type/attribute                                                                                                |                                                            |
 | 36  | **N/A**    | Simple Console Calculator | Add, subtract, multiply, divide two numbers                                                                                       |                                                            |
@@ -103,8 +103,6 @@ This repository contains a collection of programming challenges — open to ever
 | 28  | **N/A** | Local File Tagger       | Tag and search local files by custom labels                                      |
 | 29  | **N/A** | Documentation Generator | Build a tool that converts XML comments into clean Markdown or styled HTML docs. |
 
----
-
 ## Games
 
 | #   | State   | Name                    | Description                                     |
@@ -150,8 +148,6 @@ This repository contains a collection of programming challenges — open to ever
 | 39  | **N/A** | Parkour Timer Game      | Platformer that tracks speedruns                |
 | 40  | **N/A** | Incremental Clicker     | Cookie Clicker-style idle game logic            |
 
----
-
 ## Miscellaneous
 
 | #   | State   | Name                      | Description                                                |
@@ -162,3 +158,9 @@ This repository contains a collection of programming challenges — open to ever
 | 04  | **N/A** | Brainf*ck Interpreter     | Build a full BF interpreter                                |
 | 05  | **N/A** | Redo in Your Own Language | Redo Echo/FizzBuzz/etc. in your language                   |
 | 06  | **N/A** | Custom Attribute          | Create your own C# attribute                               |
+
+## Other Sources
+> [ProjectEuler.net](https://projecteuler.net/)
+> [EdaBit.com](https://edabit.com/challenges)
+> [LeetCode.com](https://leetcode.com/)
+> [CodeWars.com](https://www.codewars.com/)

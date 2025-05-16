@@ -2,15 +2,16 @@
 
 > Not sorted by any meaningful way, I just add them as I complete them
 
-| #   | State      | Name               | Description                                      | Category | Link                                                      |
-| --- | ---------- | ------------------ | ------------------------------------------------ | -------- | --------------------------------------------------------- |
-| 00  | ✅ **Done** | Hello World!       | Prints "Hello, World!" to the console            | Programs | [Folder Link](./Challenges/Programs/00_HelloWorld)        |
-| 01  | ✅ **Done** | Echo               | Echoes back user input                           | Programs | [Folder Link](./Challenges/Programs/01_Echo)              |
-| 02  | ✅ **Done** | Fizz Buzz          | Prints numbers from 1 to 100 with FizzBuzz rules | Programs | [Folder Link](./Challenges/Programs/02_FizzBuzz)          |
-| 03  | ✅ **Done** | Even Or Odd        | Determines if a number is even or odd            | Programs | [Folder Link](./Challenges/Programs/03_EvenOrOdd)         |
-| 04  | ✅ **Done** | Reverse a String   | Without using built-ins                          | Programs | [Folder Link](./Challenges/Programs/04_ReverseString)     |
-| 05  | ✅ **Done** | Palindrome Checker | Check word/sentence symmetry                     | Programs | [Folder Link](./Challenges/Programs/05_PalindromeChecker) |
-| 06  | ✅ **Done** | Vowels Counter     | Count vowels in a string                         | Programs | [Folder Link](./Challenges/Programs/06_VowelsCounter)     |
+| #   | State      | Name               | Description                                       | Category | Link                                                      |
+| --- | ---------- | ------------------ | ------------------------------------------------- | -------- | --------------------------------------------------------- |
+| 00  | ✅ **Done** | Hello World!       | Prints "Hello, World!" to the console             | Programs | [Folder Link](./Challenges/Programs/00_HelloWorld)        |
+| 01  | ✅ **Done** | Echo               | Echoes back user input                            | Programs | [Folder Link](./Challenges/Programs/01_Echo)              |
+| 02  | ✅ **Done** | Fizz Buzz          | Prints numbers from 1 to 100 with FizzBuzz rules  | Programs | [Folder Link](./Challenges/Programs/02_FizzBuzz)          |
+| 03  | ✅ **Done** | Even Or Odd        | Determines if a number is even or odd             | Programs | [Folder Link](./Challenges/Programs/03_EvenOrOdd)         |
+| 04  | ✅ **Done** | Reverse a String   | Without using built-ins                           | Programs | [Folder Link](./Challenges/Programs/04_ReverseString)     |
+| 05  | ✅ **Done** | Palindrome Checker | Check word/sentence symmetry                      | Programs | [Folder Link](./Challenges/Programs/05_PalindromeChecker) |
+| 06  | ✅ **Done** | Vowels Counter     | Count vowels in a string                          | Programs | [Folder Link](./Challenges/Programs/06_VowelsCounter)     |
+| 07  | ✅ **Done** | Leap Year Checker  | Check if a year is leap year, write your own code | Programs | [Folder Link](./Challenges/Programs/07_LeapYearChecker)   |
 
 # Non-Completed Challenges
 
@@ -48,7 +49,7 @@
 | 26  | **N/A**    | Binary to Decimal         | Convert binary string to number                                                                                                   |
 | 27  | ✅ **Done** | Even or Odd?              | Check if a number is even or odd                                                                                                  |
 | 28  | ✅ **Done** | FizzBuzz                  | Print 1–100 with Fizz/Buzz rules                                                                                                  |
-| 29  | **N/A**    | Leap Year Checker         | Leap year rules logic                                                                                                             |
+| 29  | ✅ **Done** | Leap Year Checker         | Check if a year is leap year, write your own code                                                                                 |
 | 30  | **N/A**    | Grade Categorizer         | Convert percent to letter grade                                                                                                   |
 | 31  | **N/A**    | String Modifications      | Concatenate/split/modify strings                                                                                                  |
 | 32  | ✅ **Done** | Hello World               | Say Hello World in the console                                                                                                    |

@@ -19,6 +19,8 @@ If you have new challenge ideas, please add them in one of the existing categori
 
 You’re also welcome to suggest new categories, just keep them reasonably broad and avoid overly specific categories.
 
+
+
 ### Writing Guides or Explanations
 
 When adding a guide or explanation for a challenge, please:
@@ -37,7 +39,19 @@ When adding a guide or explanation for a challenge, please:
 
 - Break down concepts clearly, assuming readers might be beginners or new to the concept presented.
 
----
+### Guide.md vs ReadMe.md
+
+- **`Guide.md`**
+  
+  > Use this file to walk someone through **how to build or implement** the program from scratch. 
+  > It’s aimed at learners or contributors who want to understand the logic, structure, and reasoning behind the solution. 
+
+- **`ReadMe.md`**
+  
+  > Use this file to explain **how to use** the program once it’s already working. 
+  > Include usage instructions, command references, and expected behaviors. 
+  
+  
 
 ## What Not to Do
 

@@ -2,8 +2,6 @@
 
 This repository contains a collection of programming challenges — open to everyone for inspiration, learning, or just having fun.
 
-> The "*solutions*" are just my personal takes. They're not necessarily correct, efficient or even good. The code may be messy or unoptimized just because I didn't feel like doing better.
-
 > See [Contribution.md](./Contribution.md)
 
 # Challenges

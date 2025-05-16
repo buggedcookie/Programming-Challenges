@@ -12,6 +12,7 @@
 | 05  | ✅ **Done** | Palindrome Checker | Check word/sentence symmetry                      | Programs | [Folder Link](./Challenges/Programs/05_PalindromeChecker) |
 | 06  | ✅ **Done** | Vowels Counter     | Count vowels in a string                          | Programs | [Folder Link](./Challenges/Programs/06_VowelsCounter)     |
 | 07  | ✅ **Done** | Leap Year Checker  | Check if a year is leap year, write your own code | Programs | [Folder Link](./Challenges/Programs/07_LeapYearChecker)   |
+| 08  | ✅ **Done** | Grade Categorizer  | Convert percent to letter grade                   | Programs | [Folder Link](./Challenges/Programs/08_GradeCategorizer)  |
 
 # Non-Completed Challenges
 
@@ -50,7 +51,7 @@
 | 27  | ✅ **Done** | Even or Odd?              | Check if a number is even or odd                                                                                                  |
 | 28  | ✅ **Done** | FizzBuzz                  | Print 1–100 with Fizz/Buzz rules                                                                                                  |
 | 29  | ✅ **Done** | Leap Year Checker         | Check if a year is leap year, write your own code                                                                                 |
-| 30  | **N/A**    | Grade Categorizer         | Convert percent to letter grade                                                                                                   |
+| 30  | ✅ **Done** | Grade Categorizer         | Convert percent to letter grade                                                                                                   |
 | 31  | **N/A**    | String Modifications      | Concatenate/split/modify strings                                                                                                  |
 | 32  | ✅ **Done** | Hello World               | Say Hello World in the console                                                                                                    |
 | 33  | ✅ **Done** | Echo                      | Echo back the user input                                                                                                          |

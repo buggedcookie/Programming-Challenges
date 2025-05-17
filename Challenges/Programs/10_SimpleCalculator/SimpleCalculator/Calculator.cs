@@ -2,27 +2,27 @@ namespace SimpleCalculator;
 
 class Calculator
 {
-    static double Add(int a, int b)
+    static double Add(double a, double b)
     {
         return a + b;
     }
 
-    static double Subtraction(int a, int b)
+    static double Subtraction(double a, double b)
     {
         return a - b;
     }
 
-    static double Multiply(int a, int b)
+    static double Multiply(double a, double b)
     {
         return a * b;
     }
 
-    static double Divide(int a, int b)
+    static double Divide(double a, double b)
     {
         return a / b;
     }
     
-    static double Modulo(int a, int b)
+    static double Modulo(double a, double b)
     {
         return a % b;
     }
@@ -36,11 +36,11 @@ class Calculator
         
         return (args[1]) switch
         {
-            "+" => Add(int.Parse(args[0]), int.Parse(args[2])),
-            "-" => Subtraction(int.Parse(args[0]), int.Parse(args[2])),
-            "*" => Multiply(int.Parse(args[0]), int.Parse(args[2])),
-            "/" => Divide(int.Parse(args[0]), int.Parse(args[2])),
-            "%" => Modulo(int.Parse(args[0]), int.Parse(args[2])),
+            "+" => Add(double.Parse(args[0]), double.Parse(args[2])),
+            "-" => Subtraction(double.Parse(args[0]), double.Parse(args[2])),
+            "*" => Multiply(double.Parse(args[0]), double.Parse(args[2])),
+            "/" => Divide(double.Parse(args[0]), double.Parse(args[2])),
+            "%" => Modulo(double.Parse(args[0]), double.Parse(args[2])),
             _ => 0d
         };
     }

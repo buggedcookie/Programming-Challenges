@@ -17,3 +17,4 @@
 | 08  | Grade Categorizer         | Convert percent to letter grade                   | [Folder Link](./Challenges/Programs/08_GradeCategorizer)   |
 | 09  | String Modification       | Concatenate/split/modify strings etc...           | [Folder Link](./Challenges/Programs/09_StringModification) |
 | 10  | Simple Console Calculator | Add, subtract, multiply, divide two numbers       | [Folder Link](./Challenges/Programs/10_SimpleCalculator)   |
+| 11  | Tip Calculator            | Percent-based calculation                         | [Folder Link](./Challenges/Programs/11_TipCalculator)      |

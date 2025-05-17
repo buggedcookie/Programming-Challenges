@@ -2,8 +2,6 @@
 
 > See [Constraints.md](./Constraints.md) for optional rules to make challenges harder or more interesting.
 
-
-
 > **Not sorted by any meaningful way**
 
 ## Programs
@@ -45,7 +43,7 @@
 | 33  | ✅ **Done** | Echo                      | Echo back the user input                                                                                                          | [Folder Link](./Challenges/Programs/01_Echo)               |
 | 34  | **N/A**    | Custom Exception          | Create and throw your own exception                                                                                               |                                                            |
 | 35  | **N/A**    | Use Reflection            | Retrieve classes by type/attribute                                                                                                |                                                            |
-| 36  | **N/A**    | Simple Console Calculator | Add, subtract, multiply, divide two numbers                                                                                       |                                                            |
+| 36  | ✅ **Done** | Simple Console Calculator | Add, subtract, multiply, divide two numbers                                                                                       | [Folder Link](./Challenges/Programs/10_SimpleCalculator)   |
 | 37  | **N/A**    | Tip Calculator            | Percent-based calculation                                                                                                         |                                                            |
 | 38  | **N/A**    | Temperature Converter     | °F/°C/K conversions                                                                                                               |                                                            |
 | 39  | **N/A**    | Countdown Timer           | Countdown from input seconds                                                                                                      |                                                            |
